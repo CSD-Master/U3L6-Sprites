@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Instructions
 
-1. Work through [Lesson 6: Sprites][lesson1] to learn about *sprites* and how they are created, modified, and displayed with `drowSprites()` in Game Lab.
+1. Work through [Lesson 6: Sprites](https://studio.code.org/s/csd3-2019/stage/6/puzzle/1) to learn about *sprites* and how they are created, modified, and displayed with `drowSprites()` in Game Lab.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead. -->
 
