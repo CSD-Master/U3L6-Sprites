@@ -4,10 +4,11 @@
 git-curr-branch:
 git-prev-branch: 
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
-lesson: https://studio.code.org/s/csd3-2019/stage/6/puzzle/1
+lesson1: https://studio.code.org/s/csd3-2019/stage/6/puzzle/1
+lesson2: 
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
-outcome:
+outcome: You can create sprites, assign animations to them, and display them in your scene.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
 # Name and URL of repository holding the starter code for this assignment.
